@@ -1,0 +1,6 @@
+{
+  "parent": "tallgates:block/template_tall_gate_upper_closed",
+  "textures": {
+    "texture": "minecraft:block/warped_planks"
+  }
+}

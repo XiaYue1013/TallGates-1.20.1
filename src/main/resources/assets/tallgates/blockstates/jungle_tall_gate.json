@@ -1,0 +1,156 @@
+{
+  "variants": {
+    "facing=south,half=lower,in_wall=false,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_lower_closed",
+      "uvlock": true
+    },
+    "facing=south,half=lower,in_wall=false,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_lower_open",
+      "uvlock": true
+    },
+    "facing=south,half=lower,in_wall=true,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_lower_closed",
+      "uvlock": true
+    },
+    "facing=south,half=lower,in_wall=true,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_lower_open",
+      "uvlock": true
+    },
+    "facing=south,half=upper,in_wall=false,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_upper_closed",
+      "uvlock": true
+    },
+    "facing=south,half=upper,in_wall=false,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_upper_open",
+      "uvlock": true
+    },
+    "facing=south,half=upper,in_wall=true,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_upper_closed",
+      "uvlock": true
+    },
+    "facing=south,half=upper,in_wall=true,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_upper_open",
+      "uvlock": true
+    },
+    "facing=west,half=lower,in_wall=false,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_lower_closed",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=west,half=lower,in_wall=false,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_lower_open",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=west,half=lower,in_wall=true,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_lower_closed",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=west,half=lower,in_wall=true,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_lower_open",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=west,half=upper,in_wall=false,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_upper_closed",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=west,half=upper,in_wall=false,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_upper_open",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=west,half=upper,in_wall=true,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_upper_closed",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=west,half=upper,in_wall=true,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_upper_open",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=north,half=lower,in_wall=false,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_lower_closed",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=north,half=lower,in_wall=false,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_lower_open",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=north,half=lower,in_wall=true,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_lower_closed",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=north,half=lower,in_wall=true,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_lower_open",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=north,half=upper,in_wall=false,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_upper_closed",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=north,half=upper,in_wall=false,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_upper_open",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=north,half=upper,in_wall=true,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_upper_closed",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=north,half=upper,in_wall=true,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_upper_open",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=east,half=lower,in_wall=false,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_lower_closed",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=east,half=lower,in_wall=false,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_lower_open",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=east,half=lower,in_wall=true,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_lower_closed",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=east,half=lower,in_wall=true,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_lower_open",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=east,half=upper,in_wall=false,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_upper_closed",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=east,half=upper,in_wall=false,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_upper_open",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=east,half=upper,in_wall=true,open=false": {
+      "model": "tallgates:block/jungle_tall_gate_upper_closed",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=east,half=upper,in_wall=true,open=true": {
+      "model": "tallgates:block/jungle_tall_gate_upper_open",
+      "uvlock": true,
+      "y": 270
+    }
+  }
+}

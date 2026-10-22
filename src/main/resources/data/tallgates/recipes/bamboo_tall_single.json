@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_fence_gate",
+  "ingredients": [
+    {
+      "item": "tallgates:bamboo_tall_gate"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bamboo_fence_gate",
+    "count": 2
+  }
+}

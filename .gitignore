@@ -1,0 +1,10 @@
+.gradle
+build/
+run/
+logs/
+.idea
+*.iml
+.project
+.classpath
+.settings/
+PORTING_CHECKLIST.md

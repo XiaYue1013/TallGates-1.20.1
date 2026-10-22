@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tallgates:item/acacia_tall_gate"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "tallgates:oak_tall_gate",
+    "tallgates:spruce_tall_gate",
+    "tallgates:birch_tall_gate",
+    "tallgates:jungle_tall_gate",
+    "tallgates:acacia_tall_gate",
+    "tallgates:dark_oak_tall_gate",
+    "tallgates:mangrove_tall_gate",
+    "tallgates:cherry_tall_gate",
+    "tallgates:bamboo_tall_gate",
+    "tallgates:crimson_tall_gate",
+    "tallgates:warped_tall_gate"
+  ]
+}

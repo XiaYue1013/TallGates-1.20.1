@@ -1,0 +1,6 @@
+{
+  "parent": "tallgates:block/template_tall_gate_lower_open",
+  "textures": {
+    "texture": "minecraft:block/crimson_planks"
+  }
+}

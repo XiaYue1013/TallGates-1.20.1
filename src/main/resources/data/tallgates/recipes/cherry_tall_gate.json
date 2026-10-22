@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tall_fence_gate",
+  "pattern": [
+    "X",
+    "X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:cherry_fence_gate"
+    }
+  },
+  "result": {
+    "item": "tallgates:cherry_tall_gate",
+    "count": 1
+  }
+}

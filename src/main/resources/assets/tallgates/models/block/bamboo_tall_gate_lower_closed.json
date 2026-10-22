@@ -1,0 +1,6 @@
+{
+  "parent": "tallgates:block/template_tall_gate_lower_closed",
+  "textures": {
+    "texture": "minecraft:block/bamboo_planks"
+  }
+}
